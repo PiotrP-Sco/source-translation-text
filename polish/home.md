@@ -1,4 +1,4 @@
-Rozprzestrzeniaj wiedzę, a nie wirusa
+Rozprzestrzeniaj wiedzę, a nie wirusa. 
 
 My dostarczamy informacji od ekspertów o tum, jak powstrzymać COVID-19, abyś mógł funkcjonować ufnie.
 

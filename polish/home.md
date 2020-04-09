@@ -1,4 +1,5 @@
 Przekazuj wiedzę, a nie wirusa
+=
 
 Dostarczamy rzetelnych i pochodzących od ekspertów informacji, w jaki sposób powstrzymać COVID-19, aby Twoje działania były zdecydowane i skuteczne.  
 

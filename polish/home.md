@@ -1,16 +1,14 @@
 Przekazuj wiedzę, a nie wirusa
 
-Naszą misją jest przekazywanie rzetelnych informacji na temat powstrzymania choroby COVID-19, zapewniając Ci pewność w dziłaniu.
+Dostarczamy rzetelnych i pochodzących od ekspertów informacji, w jaki sposób powstrzymać COVID-19, aby Twoje działania były zdecydowane i skuteczne.  
 
 Zobacz nasze zalecenia dla osób indywidualnych (link), rodzin (link), pracodawców (link) i rządów (link).
 
-Strona EndCoronavirus.org prowadzona jest przez doktora Yaneer'a Bar-Yam, przewodniczącego New England Complex Systems Institute (link. Yaneer jest doktorem fizyki i badaczem systemów złożonych oraz absolwentem MIT. Doktor Bar-Yam jest naukowcem badającym szereg zjawisk społecznych włączając pandemię. Od 15 lat ostrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W 2014 roku zalecił system społecznościowego monitoringu w celu powstrzymania epidemii Eboli w Afryce Zachodniej, co później okazało się skutecznym rozwiązaniem.
+Strona EndCoronavirus.org prowadzona jest przez Yaneer Bar-Yam, przewodniczącego Instytutu Badania Systemów Złożonych w Nowej Anglii (New England Complex Systems Institute) (link). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli w Afryce Zachodniej (2014), Yaneer zaproponował społecznościowy system obserwacji objawów, co później okazało się skutecznym rozwiązaniem.
 
 Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczania epidemii COVID-19: Dołącz do nas (link)
 
-(podkreślenie)
-
-Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest trawające pięć tygodni całkowite zamknięcie kraju. 
+Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest całkowite zamknięcie kraju na okres pięciu tygodni.
 
 Nasze najważniejsze zalecenia dla rządów
 

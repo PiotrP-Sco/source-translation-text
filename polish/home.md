@@ -1,11 +1,11 @@
-Przekazuj wiedzę, a nie wirusa
-=
+# Przekazuj wiedzę, a nie wirusa
 
-Dostarczamy rzetelnych i pochodzących od ekspertów informacji, w jaki sposób powstrzymać COVID-19, aby Twoje działania były zdecydowane i skuteczne.  
 
-Zobacz nasze zalecenia dla osób indywidualnych (link), rodzin (link), pracodawców (link) i rządów (link).
+### Dostarczamy rzetelnych i pochodzących od ekspertów informacji, w jaki sposób powstrzymać COVID-19, aby Twoje działania były zdecydowane i skuteczne.  
 
-Strona EndCoronavirus.org prowadzona jest przez Yaneer Bar-Yam, przewodniczącego Instytutu Badania Systemów Złożonych w Nowej Anglii (New England Complex Systems Institute) (link). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli w Afryce Zachodniej (2014), Yaneer zaproponował społecznościowy system obserwacji objawów, co później okazało się skutecznym rozwiązaniem.
+### Zobacz nasze zalecenia dla [osób indywidualnych], [rodzin], [pracodawców] i [rządów].
+
+Inicjatywa EndCoronavirus prowadzona jest przez Yaneer Bar-Yam, przewodniczącego Instytutu Badania Systemów Złożonych w Nowej Anglii (New England Complex Systems Institute) (link). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli w Afryce Zachodniej (2014), Yaneer zaproponował społecznościowy system obserwacji objawów, co później okazało się skutecznym rozwiązaniem.
 
 Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczania epidemii COVID-19: Dołącz do nas (link)
 

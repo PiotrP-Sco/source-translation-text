@@ -51,4 +51,4 @@ Powróty z regionów z aktywnym ogniskiem choroby powinny być wstrzymane. Każd
 
  [Życie codzienne i COVID-19 (PDF)] 
 
- Co zrobić z: budynkami mieszkalnymi, zakupami w sklepach, niezbędnymi podróżami, paczkami i listami.
+    Co zrobić z: budynkami mieszkalnymi, zakupami w sklepach, niezbędnymi podróżami, paczkami i listami.

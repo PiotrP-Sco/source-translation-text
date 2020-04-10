@@ -5,11 +5,11 @@
 
 ### Zobacz nasze zalecenia dla [osób indywidualnych], [rodzin], [pracodawców] i [rządów].
 
-Inicjatywa EndCoronavirus prowadzona jest przez Yaneer Bar-Yam, przewodniczącego Instytutu Badania Systemów Złożonych w Nowej Anglii (New England Complex Systems Institute) (link). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli w Afryce Zachodniej (2014), Yaneer zaproponował społecznościowy system obserwacji objawów, co później okazało się skutecznym rozwiązaniem.
+Twórcą inicjatywy EndCoronavirus jest prof. Yaneer Bar-Yam, załozyciel Instytutu Badania Systemów Złożonych w Nowej Anglii [New England Complex Systems Institute] (https://necsi.edu). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli, w Afryce Zachodniej w roku 2014, Yaneer zaproponował społecznościowy system obserwacji objawów, co okazało się skutecznym rozwiązaniem.
 
 Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczania epidemii COVID-19: Dołącz do nas (link)
 
-Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest całkowite zamknięcie kraju na okres pięciu tygodni.
+Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest całkowite zamknięcie i odizolowanie kraju (tak zwany lockdown) na okres pięciu tygodni.
 
 Nasze najważniejsze zalecenia dla rządów
 

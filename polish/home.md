@@ -5,63 +5,47 @@
 
 ### Zobacz nasze zalecenia dla [osób indywidualnych], [rodzin], [pracodawców] i [rządów].
 
-Twórcą inicjatywy EndCoronavirus jest prof. Yaneer Bar-Yam, załozyciel Instytutu Badania Systemów Złożonych w Nowej Anglii [New England Complex Systems Institute] (https://necsi.edu). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli, w Afryce Zachodniej w roku 2014, Yaneer zaproponował społecznościowy system obserwacji objawów, co okazało się skutecznym rozwiązaniem.
+_Twórcą inicjatywy EndCoronavirus jest prof. Yaneer Bar-Yam, załozyciel Instytutu Badania Systemów Złożonych w Nowej Anglii [New England Complex Systems Institute] (https://necsi.edu). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli, w Afryce Zachodniej w roku 2014, Yaneer zaproponował społecznościowy system obserwacji objawów, który okazał się skutecznym rozwiązaniem_
 
-Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczania epidemii COVID-19: Dołącz do nas (link)
+Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczania epidemii COVID-19: [Dołącz do nas](https://v2.endcoronavirus.org/sign-up/english)
 
-Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest całkowite zamknięcie i odizolowanie kraju (tak zwany lockdown) na okres pięciu tygodni.
+|![yaneer](images/Yaneer.jpg)|
+|NECSI President, Prof. Yaneer Bar-Yam|
+|---|
 
-Nasze najważniejsze zalecenia dla rządów
+Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest całkowite izolacja kraju na okres pięciu tygodni.
 
-1. Blokada narodowa
+### Nasze najważniejsze zalecenia dla rządów
+### 1. Izolacja na skale krajową
 
-W większej części Europy i Ameryki Północnej, szybki wzrost COVID-19 oznacza, że stanowcza blokada przez 4-6 tygodni jest konieczna, by powstrzymać wybuch. Takie blokady może być trudno wprowadzić w życie, a one zawsze pociągają za sobą koszta finansowe i socjalne. Ale ich efekt jest dramatyczny, a trwają krótko. Dwa miesiące po wprowadzeniu blokady przez Chiny, kraj ten zasadniczo wyeliminował lokalne przekazywanie COVID-19. Wuhan jest obecnie bezpieczniejszy, niż Londyn czy Nowy Jork, a gospodarka Chin jest w drodze do poprawy. Bez silnej blokady w Chinach, szkody gospodarcze, spowodowane COVID-19, dla tego kraju byłyby wielokrotnie większe.
+W większej części Europy i Ameryki Północnej, szybki wzrost COVID-19 oznacza, że **całkowita izolacja kraju przez okres 4-6 tygodni jest konieczna, by powstrzymać epidemię**. Taką izolację może być trudno wprowadzić w życie, gdyż zawsze pociąga za sobą koszty finansowe i socjalne. Natomiast należy pamietać, że to jest bardzo skuteczy zabieg, trwający stosunkowo krótko. Dwa miesiące po wprowadzeniu blokady przez Chiny, kraj ten zasadniczo wyeliminował lokalne przekazywanie COVID-19. Wuhan jest obecnie bezpieczniejszy, niż Londyn czy Nowy Jork, a gospodarka Chin umacnia się. Bez calkowitej izolacji w Chinach, szkody gospodarcze, spowodowane COVID-19, 
+byłyby wielokrotnie większe.
 
-Podczas silnej blokady, regiony mniej dotknięte wirusem mogą dostarczać środków tym w potrzebie. Blokada daje również czas na to, by dramatycznie zwiększyć dostawy zestawów do testowania COVID-19 i możliwości ich przeprowadzenia. Jeżeli ilość zarażeń dramatycznie się zmniejszy poprzez użycie blokady, a masowe testowanie będzie rozpoczęte, COVID-19 może być pod kontrolą po pięciu tygodniach bez ekstremalnych środków socjalnego dystansowania. Silna blokada zmniejszy szkody zarówno dla osób indywidualnych, jak i dla gospodarki.
+Podczas całkowitej izolacji, **regiony mniej dotknięte wirusem mogą dostarczać środków tym w większej potrzebie**. Izolacja daje również czas na to, by dramatycznie zwiększyć dostawy zestawów do testowania COVID-19 i możliwości ich przeprowadzenia. Jeżeli ilość zarażeń dramatycznie się zmniejszy poprzez wdrożenie całkowitej izloacji, a masowe testowanie będzie rozpoczęte, COVID-19 może być pod kontrolą po pięciu tygodniach bez ekstremalnych środków  dystansu socjalnego. **Całkowita izolacja zmniejszy szkody zarówno dla osób indywidualnych, jak i dla gospodarki.**
 
-Zobacz memorandum panów Chen Shen i Yaneer Bar-Yam: Dlaczego 5-ciotygodniowa blokada może powstrzymać COVID-19 (link)
+  *Zobacz memorandum panów Chen Shen i Yaneer Bar-Yam: [Dlaczego pięcio tygpdniowa izolacja może powstrzymać COVID-19] (https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
 
-Artykuł pana Yaneer w dzienniku USA Today: Potrzebujemy natychmiastowej pięcio-tygodniowej blokady narodowej by pokonać koronawirusa w Ameryce (link)
+  *Artykuł pana Yaneer w dzienniku USA Today: [Potrzebujemy natychmiastowej pięcio tygosniowej izolacji by pokonać koronawirusa w Ameryce] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-2. Masowe testowanie, śledzenie kontaktów i izolacja
+### 2. Masowe testowanie, śledzenie kontaktów i izolacja
 
-Masowe testowanie na COVID-19 wspólnie ze śledzeniem, a po tym izolowaniem kontaktów osób zarażonych jest interwencją, która powoduje najmniejsze straty gospodarcze, a ratuje życie wielu ludziom. Singapur i Korea pokazały, że takie podejście może zwalczyć COVID-19.
+Masowe testowanie na COVID-19 wspólnie ze śledzeniem, a po tym izolowaniem kontaktów osób zarażonych jest interwencją, **która powoduje najmniejsze straty gospodarcze, a ratuje życie wielu ludziom**. Singapur i Korea pokazały, że takie podejście może zwalczyć COVID-19.
 
 Rządy muszą zastosować następujące strategie by powstrzymać COVID-19:
 
-1. Śledzenie kontaktów: Izolować, monitorować i testować każdego, kto był w kontakcie z wiadomą zarażoną osobą.
+1. **Śledzenie kontaktów:** Izolować, monitorować i testować każdego, kto był w kontakcie z wiadomą zarażoną osobą.
 
-2. Ogólne testowanie symptomatyczne: Testować symptomy każdego w geograficznym rejonie osoby zarażonej COVID-19 takie, jak gorączka.
+2. **Ogólne testowanie symptomatyczne:** Testować symptomy, takie jak gorączka, każdego w geograficznym rejonie osoby zarażonej COVID-19.
 
-3. Ukierunkowane pobieranie próbek: Losowo testować osoby w miejscach zaludnienia o wysokim ryzyku, jak więzienia, domy opieki, akademiki. Państwa, szczególnie w Azji, które posiadają wymagana ekspertyzę, powinny pomagać pozostałym częściom świata, aby przyspieszyć ten proces. Zespoły śledzenia kontaktów muszą być wyszkolone, a państwa muszą radykalnie przyspieszyć testowanie. Państwa powinny do testowania korzystać z instytucji akademickich i przedsiębiorstw.
-
-
-
-3. Ograniczyć poruszanie się, zezwalając jednocześnie na zaspakajanie dostarczania zasadniczych potrzeb i reagowanie medyczne
-
-Podróżowanie z regionów z aktywnym wybuchem choroby powinny być powstrzymane. Każda osoba powinna być poddana 14-sto dniowej kwarantannie, gdy wkracza do innych regionów. W miejscach, gdzie istnieją aktywne wybuchy choroby, ograniczenie poruszania się do podróży koniecznych pozwala regionom o mniejszej ilości przypadków szybciej uzyskać kontrolę nad swoimi wybuchami, z mniejszą ilością interwencji. Możliwość szybszego wyzdrowienia jest ważna dla uzdrowienia gospodarki i dla możliwości udzielenia pomocy regionom bardziej dotkniętym.
-
-W celu uzyskania najnowszych informacji i zaleceń, śledż pana Yaneer Bar-Yam i End Coronavirus na Twitter.
+3. **Ukierunkowane pobieranie próbek:** Losowo testować osoby w miejscach o wysokim ryzyku, jak więzienia, domy opieki, akademiki. Państwa, szczególnie w Azji, które posiadają wymagana ekspertyzę, powinny pomagać pozostałym częściom świata, aby przyspieszyć ten proces. Zespoły śledzenia kontaktów muszą być wyszkolone, a państwa muszą radykalnie przyspieszyć testowanie. Państwa powinny do testowania korzystać z instytucji akademickich i przedsiębiorstw.
 
 
-Tweety
+### 3. Ograniczyć poruszanie się, zezwalając jednocześnie na zaspakajanie dostarczania zasadniczych potrzeb i pomoc medyczną
 
-ICC Academy
+Podróżowanie z regionów z aktywnym wybuchem choroby powinny być powstrzymane. Każda osoba powinna być poddana 14-dniowej kwarantannie, gdy wkracza do innych regionów. W miejscach, gdzie istnieją aktywne ogniska choroby, ograniczenie poruszania się do podróży koniecznych pozwala regionom o mniejszej ilości przypadków szybciej uzyskać kontrolę nad swoimi ogniskami, z mniejszą ilością interwencji. Możliwość szybszego powrotu do zdrowia jest ważna dla uzdrowienia gospodarki i dla możliwości udzielenia pomocy regionom bardziej dotkniętym.
 
-Pierwszy epizod naszej Odprawy COVID-19 jest już w sieci! Rozmawialiśmy z @yaneerbaryam o najistotniejszej dynamice pandemii COVID-19, jak również o praktycznych czynnościach, które każdy może wykonać, by obrócić prąd przeciw chorobie w swoich lokalnych społecznościach.
+|---|
 
+### Osoby indywidualne nie muszą czekać na rządzącyh, aby podjąc zdecydowane działania! Zdecyduj się na izolację, aby powstrzymać wirsu w twoim bezpośrednim środowisku!
 
-
-Yaneer Bar-Yam
-
-Pamiętaj: 80% zarażania w Chinach było wewnątrz grup rodzinnych. A zatem odseparowujcie się ile tylko możliwe, czy to do oddzielnych mieszkań, czy do namiotu na trawniku, do momentu braku symptomów po 14 dniach.
-
-
-NOWINY: Wybuch koronawirusa. USA nadal w próżni testowania, łagodne do poważnych przypadków, szczególnie w stanie Nowy Jork, New Jersey, wzrastająca ilość testów. Nowe przypadki wzrosły wczoraj do 25.742, śmiertelnych 912. Dzisiaj ponad 1.000 śmiertelnych. Jaśniejszym miejscem w testowaniu może być stan Ohio.
-(Wykresy itp.)
-
-
-Część efektu jest bezpośrednia. Część uświadamia wszystkich, że trzeba myśleć o koronawirusie. Musimy zmienić normalne zachowanie na nie-normalne, pomocnym jest mieć to za oczywiste.
-
-Jeśli się dokładnie przyjrzeć, efekt jest jeszcze większy.
-
+Wytyczne dla osób indywidualnych i rodzin!

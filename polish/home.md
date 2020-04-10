@@ -22,9 +22,9 @@ byłyby wielokrotnie większe.
 
 Podczas całkowitej kwarantanny, **regiony mniej dotknięte wirusem mogą dostarczać środków tym w większej potrzebie**. Kwarantanna daje również czas na to, by dramatycznie zwiększyć dostawy zestawów do testowania COVID-19 i możliwości ich przeprowadzenia. Jeżeli ilość zarażeń dramatycznie się zmniejszy poprzez wdrożenie całkowitej kwarantanny, a masowe testowanie będzie rozpoczęte, COVID-19 może być pod kontrolą po pięciu tygodniach bez ekstremalnych środków dystansu społecznego. **Całkowita kwarantanna zmniejsza szkody zarówno dla osób indywidualnych, jak i dla gospodarki.**
 
-  *Zobacz memorandum panów Chen Shen i Yaneer Bar-Yam: [Dlaczego pięcio tygpdniowa izolacja może powstrzymać COVID-19] (https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
+  *Zobacz memorandum panów Chen Shen i Yaneer Bar-Yam: [Dlaczego pięcio tygodniowa izolacja może powstrzymać COVID-19] (https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
 
-  *Artykuł pana Yaneer w dzienniku USA Today: [Potrzebujemy natychmiastowej pięcio tygosniowej izolacji by pokonać koronawirusa w Ameryce] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+  *Artykuł pana Yaneer w dzienniku USA Today: [Potrzebujemy natychmiastowej pięcio tygodniowej izolacji by pokonać koronawirusa w Ameryce] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
 ### 2. Masowe testowanie, śledzenie kontaktów i izolacja
 

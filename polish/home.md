@@ -12,7 +12,7 @@ Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczani
 |NECSI President, Prof. Yaneer Bar-Yam|
 |---|
 
-Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest kwarantanna na okres pięciu tygodni.
+Najszybszym i jedynym sposobem powstrzymania COVID-19 w USA jest trwająca pięć tygodni kwarantanna narodowa.
 
 ### Nasze najważniejsze zalecenia dla rządów
 ### 1. Kwarantanna na skale krajową

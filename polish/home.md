@@ -52,3 +52,12 @@ Powróty z regionów z aktywnym ogniskiem choroby powinny być wstrzymane. Każd
  [Życie codzienne i COVID-19 (PDF)] 
 
     Co zrobić z: budynkami mieszkalnymi, zakupami w sklepach, niezbędnymi podróżami, paczkami i listami.
+
+### Wytyczne dla domostw i rodzin
+
+    Generalne wytyczne dla domostw i rodzin
+    
+### Wytyczne podczas samo-izolacji
+
+    Co zrobic gdy żyjesz samotnie lub gdy masz współlokatora
+    

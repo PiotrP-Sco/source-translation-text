@@ -1,10 +1,10 @@
 # Przekazuj wiedzę, a nie wirusa
 
-### Dostarczamy rzetelnych i pochodzących od ekspertów informacji, w jaki sposób powstrzymać COVID-19, aby Twoje działania były zdecydowane i skuteczne.  
+### W jaki sposób powstrzymać COVID-19? Udostępniamy rzetelną wiedzę pochodzącą od ekspertów, aby Twoje działania były skuteczne.  
 
 ### Zobacz nasze zalecenia dla [osób indywidualnych], [rodzin], [pracodawców] i [rządów].
 
-_Twórcą inicjatywy EndCoronavirus jest prof. Yaneer Bar-Yam, założyciel Instytutu Badania Systemów Złożonych w Nowej Anglii [New England Complex Systems Institute] (https://necsi.edu). Yaneer jest doktorem fizyki i absolwentem MIT oraz badaczem systemów złożonych włączając pandemie. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli w Afryce Zachodniej w roku 2014, Yaneer zaproponował społecznościowy system obserwacji objawów, który później okazał się skutecznym rozwiązaniem._
+_Twórcą inicjatywy EndCoronavirus jest prof. Yaneer Bar-Yam, założyciel Instytutu Badania Systemów Złożonych w Nowej Anglii [New England Complex Systems Institute] (https://necsi.edu). Yaneer jest doktorem fizyki i absolwentem MIT badającym między innymi zjawiska pandemii. Przez ostatnie 15 lat, Yaneer przestrzegał świat przed niebezpieczeństwem pandemii spowodowanym postępującą globalizacją. W celu powstrzymania epidemii Eboli w Afryce Zachodniej w roku 2014, Yaneer zaproponował społecznościowy system obserwacji objawów, który później okazał się skutecznym rozwiązaniem._
 
 Dołącz do ponad 5 tyś. wolontariuszy zrzeszonych w naszej grupie do zwalczania epidemii COVID-19: [Dołącz do nas](https://v2.endcoronavirus.org/sign-up/english)
 

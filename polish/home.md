@@ -1,6 +1,6 @@
 # Przekazuj wiedzę, a nie wirusa
 
-### W jaki sposób powstrzymać COVID-19? Udostępniamy rzetelną wiedzę pochodzącą od ekspertów, aby Twoje działania były skuteczne.  
+### W jaki sposób powstrzymać COVID-19? Udostępniamy rzetelną, pochodzącą od ekspertów wiedzę, aby Twoje działania były skuteczne.  
 
 ### Zobacz nasze zalecenia dla [osób indywidualnych], [rodzin], [pracodawców] i [rządów].
 
@@ -26,13 +26,13 @@ Podczas całkowitej kwarantanny, **regiony mniej dotknięte wirusem mogą dostar
 
   *Artykuł pana Yaneer w dzienniku USA Today: [Potrzebujemy natychmiastowej pięcio tygodniowej izolacji by pokonać koronawirusa w Ameryce] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-### 2. Masowe testowanie, śledzenie kontaktów i izolacja
+### 2. Masowe testowanie, tropienie kontaktów i izolacja
 
 Masowe testowanie na COVID-19 wspólnie ze śledzeniem, a po tym izolowaniem kontaktów osób zarażonych jest interwencją, **która powoduje najmniejsze straty gospodarcze, a ratuje życie wielu ludziom**. Singapur i Korea pokazały, że takie podejście może zwalczyć COVID-19.
 
 Rządy muszą zastosować następujące strategie by powstrzymać COVID-19:
 
-1. **Śledzenie kontaktów:** Izolować, monitorować i testować każdego, kto był w kontakcie z zarażoną osobą.
+1. **Tropienie kontaktów:** Izolować, monitorować i testować każdego, kto był w kontakcie z zarażoną osobą.
 
 2. **Ogólne testowanie symptomatyczne:** Sprawdzać symptomy, takie jak gorączka, każdego w bezpośrednim kontakcie z osobą zarażoną COVID-19.
 

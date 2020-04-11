@@ -2,7 +2,7 @@
 
 Strona endCoronavirus.org jest inicjatywą stworzoną i prowadzoną przez Instytut Badania Systemów Złożonych w Nowej Anglii (New England Complex Systems Institute) i osoby współpracujące. Naszym celem jest zmniejszyć negatywny wpływ COVID-19 poprzez dostarczanie rzetelnych danych i zaleceń w celu skutecznego działania w życiu codziennym.
 
-Nasz zespół składa się z naukowców, studentów i osób towarzyszące z uczelni takich, jak MIT, Harvard, Brandeis i innych uniwersytetów w USA i na świecie. Pracujemy 24 godziny na dobę, by monitorować i komunikować o aktualnej sytuacji związanej z epidemią COVID-19.
+Nasz zespół składa się z naukowców, studentów i współpracowników z uczelni takich, jak MIT, Harvard, Brandeis i innych uniwersytetów w USA i na świecie. Pracujemy 24 godziny na dobę, by monitorować i komunikować o aktualnej sytuacji związanej z epidemią COVID-19.
 
 Wykorzystujemy szereg narzędzi matematycznych, stworzonych dla systemów z wieloma komponentami pozostającymi w ciągłej interakcji, w których tradycyjne założenia statystyczne nie mają zastosowania.
 

@@ -41,7 +41,7 @@ Rządy muszą zastosować następujące strategie by powstrzymać COVID-19:
 
 ### 3. Ograniczyć poruszanie się, zezwalając jednocześnie na zaspokajanie zasadniczych potrzeb i pomoc medyczną
 
-Powróty z regionów z aktywnym ogniskiem choroby powinny być wstrzymane. Każda osoba powracająca z regionu wysokiego ryzyka powinna być poddana 14-dniowej kwarantannie. W miejscach, gdzie istnieją aktywne ogniska choroby, ograniczenie poruszania się do podróży niezbędnych pozwala regionom o mniejszej ilości przypadków szybciej uzyskać kontrolę nad swoimi ogniskami, tym samym zmniejszając liczbę interwencji. Możliwość szybszego powrotu do zdrowia jest ważna dla uzdrowienia gospodarki i dla możliwości udzielenia pomocy regionom bardziej dotkniętym.
+Powróty z regionów z aktywnym ogniskiem choroby powinny być wstrzymane. Każda osoba powracająca z regionu wysokiego ryzyka powinna być poddana 14-dniowej kwarantannie. W miejscach, gdzie istnieją aktywne ogniska choroby, ograniczenie poruszania się pozwala regionom z mniejszą liczbą przypadków uzyskać szybką kontrolę nad ogniskami choroby, tym samym zmniejszając liczbę interwencji. Możliwość szybszego powrotu do zdrowia jest ważna dla uzdrowienia gospodarki i dla możliwości udzielenia pomocy regionom bardziej dotkniętym.
 
 |---|
 
